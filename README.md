@@ -27,11 +27,11 @@ The focus areas include:
 ```bash
 ml_learning_weekly/
 │
-├── statistical_theory/          # Probability, distributions, Bayes, entropy, etc.
-├── mathematical_foundations/    # Linear algebra, calculus, optimization
-├── ml_algorithms/               # SVM, Decision Trees, kNN, etc.
 ├── deep_learning/               # Neural nets, CNNs, backpropagation from scratch
+├── mathematical_foundations/    # Linear algebra, calculus, optimization
+├── misc/                        # Anything else!
+├── ml_algorithms/               # SVM, Decision Trees, kNN, etc.
 ├── mlops_pipeline/              # Experiment tracking, data pipelines, deployment
 ├── projects/                    # End-to-end mini-projects & Kaggle-style problems
 ├── research_summaries/          # Key ML papers and implementations
-└── misc/                        # Anything else!
+└── statistical_theory/          # Probability, distributions, Bayes, entropy, etc.
