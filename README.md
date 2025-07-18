@@ -47,7 +47,7 @@ This is a prioritized, balanced sequence of topics that I will work through week
 - Optionally, a blog summary on Medium
 
 ### 📘 Weeks 1–2: Fundamentals & Warmups
-- [ ] Linear Regression (theory + from scratch)
+- [✔️] Linear Regression (theory + from scratch)
 - [ ] Logistic Regression (sigmoid, loss function)
 - [ ] Basic Probability & Bayes’ Theorem (refresher)
 - [ ] Visualization of Decision Boundaries (with scikit-learn)
