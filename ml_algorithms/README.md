@@ -26,3 +26,5 @@ This folder explores foundational ML algorithms—implemented from scratch where
 - Measure accuracy, precision/recall, and cross-validation
 - Understand when and why these methods fail
 
+## Tracklist:
+- 17/18 July 2025: Linear_regression Refresher
