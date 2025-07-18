@@ -27,4 +27,5 @@ This folder explores foundational ML algorithms—implemented from scratch where
 - Understand when and why these methods fail
 
 ## Tracklist:
-- 17/18 July 2025: Linear_regression Refresher
+- 17/18 July 2025: linear_regression Refresher
+- 18 July 2025: logistic_regression Refresher
